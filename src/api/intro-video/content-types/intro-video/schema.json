@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "intro_videos",
+  "info": {
+    "singularName": "intro-video",
+    "pluralName": "intro-videos",
+    "displayName": "intro video"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "videos": {
+      "type": "json"
+    }
+  }
+}
